@@ -125,7 +125,7 @@ function showProjects(projects) {
       </div>
     </div>`
     });
-    projectsContainer.innerHTML = projectHTML;
+    // projectsContainer.innerHTML = projectHTML;
 
     // <!-- tilt js effect starts -->
     VanillaTilt.init(document.querySelectorAll(".tilt"), {
